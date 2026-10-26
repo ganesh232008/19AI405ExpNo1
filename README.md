@@ -83,6 +83,5 @@ main()
 <img width="812" height="860" alt="image" src="https://github.com/user-attachments/assets/de2d0d2e-35f1-474c-ab62-903b689ef70b" />
 
 ## Result:
-
-Thus the Developing AI Agent with PEAS Description was implemented using python programming.
+Thus, the Medicine Prescribing AI Agent was successfully developed using the PEAS description to identify patients with fever, prescribe medicine, and calculate the performance measure based on treatment and movement.
 
